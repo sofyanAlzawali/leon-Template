@@ -114,7 +114,7 @@ input:checked~.list {
 /* ---------------------------- */
 
 .landing {
-    background-image: url('img/landing.jpg');
+    background-image: url('../img/landing.jpg');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
